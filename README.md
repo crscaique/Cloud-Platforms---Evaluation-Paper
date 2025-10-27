@@ -15,8 +15,6 @@ Overall, in this evaluation, I have gone  through a few topics, such as:
 - Deployment of Web Services
 - And More...
 
-The document is ideal for initial contact with the technology and exploring its tools and concepts. Have a look and have fun.
-
 
 -----------------------------------------------------------------------------------------------------------------------------
 
