@@ -18,7 +18,7 @@ In the documents, I carefully highlight the functionalities, setups, and strengt
 - Step-by-step of uploading a functional e-Library system utilizing AWS / Microsoft Azure platforms
 - Database configuration
 
-*Cloud Platforms - Group Research*
+*Cloud Platforms Evaluation - Group Research*
 
 This paper dives deeper in Cloud Platforms utilities. Evaluation more closely the use and setup of network secutiry, such as:
 - IaaS, PaaS, and Data Security
