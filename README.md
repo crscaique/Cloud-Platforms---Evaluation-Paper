@@ -1,38 +1,35 @@
-# cloud-platform :cloud:
+# Cloud-Platforms :cloud:
 
-Hey everyone :)
+This repository contains the evaluation of two widely used cloud platforms available in the market: Microsoft Azure and Amazon Web Services (AWS).
 
-I am here to share my experience using two Cloud Platforms currently in the market: Amazon Web Services (AWS) & Microsoft Azure!
-This page contains academic statements, technical procedures, and my opinion about cloud service providers.
+In the documents, I carefully highlight the functionalities, setups, and strengths of each platform. Furthermore, a step-by-step guide of determined configurations and a conclusion based on my use are included.
 
-What am I aiming for?
-Cloud is here to stay. It is a complex and versatile environment which contains a world of functions that could only be achieved by building a physical (and expensive) structure back in the day.
+*Cloud Platforms Evaluation*
+- What is Cloud Computing and Cloud concepts
+  - Focused on Infrastructure as a Service (IaaS)
+- Emulation of Cloud Computing solution for a real life company: Tech Weve Solutions
+- Setup in Azure and AWS of:
+  - Virtual Machine
+  - Virtual Machine Scale Set
+  - Horizontal and Vertical Scaling
+  - Networking
+  - Storage
 
-Overall, in this evaluation, I have gone  through a few topics, such as:
-- Cloud Concepts
-- Introduction to Azure and AWS and an analysis of the user interface (User Portal)
-- Elasticity and Scaling of services (Virtual Machine, Database and Storage)
-- Deployment of Web Services
-- And More...
+- Step-by-step of uploading a functional e-Library system utilizing AWS / Microsoft Azure platforms
+- Database configuration
 
+*Cloud Platforms - Group Research*
 
------------------------------------------------------------------------------------------------------------------------------
+This paper dives deeper in Cloud Platforms utilities. Evaluation more closely the use and setup of network secutiry, such as:
+- IaaS, PaaS, and Data Security
+- Scalable application deployment AWS / Microsoft Azure
+- Antimalware configuration
+- Encryption and Decryption at code level / Application security using Cloud tools
+- Application evaluation
+  - Scalability
+  - Security
+  - Pricing
+ 
+  *Observations, notes, and Challenges*
 
-
-A few observations about...
-
-1. Cloud Platforms Evaluation.pdf is a solo work. The piece of work analyses Microsoft and Amazon products. On top of that, my goal is to achieve a few key functionalities that can be applied in the professional environment, such as:
-
-  • Development of a Web Service and the deployment 
-  • Pricing of services
-  • Type of subscriptions that the companies offer to customers and their benefits 
-  • Practical and technical approach with screenshots of procedures, such as Elasticity and Scaling of multiple services (virtual machines, database, storage)
-  • A comparison between the platform portal and the walkthrough for each service creation
-
-2. Cloud Platforms Evaluation - Group Research.pdf is a group work. The credits have been given to the students who collaborated. Their names and identification can be found on the first page of the paper. 
-This new piece of work goes deeply into the use of cloud tools, however focusing on:
-  
-  • Security and integrity of data - Use of cryptography and management of cryptographic keys
-  • Use of virtual private networks and network protocols
-
-3. Observations, notes and challenges.pptx is a brief presentation containing my conclusions through the process of using, understanding, and developing my research about Clouding Computing, have a look!
+During the process of evaluation and use of the platforms, I faced challenges and difficulties. However, this has brought me numerous valuable insights that can be found in the 'Observations...' files. There, I highlight the points where I grew as a user and professional, as well as techniques that helped me to improve my knowledge and way of using for Microsoft Azure, AWS and other Cloud Computing Platforms 
