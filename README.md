@@ -25,7 +25,7 @@ This paper dives deeper in Cloud Platforms utilities. Evaluation more closely th
 - Scalable application deployment AWS / Microsoft Azure
 - Antimalware configuration
 - Encryption and Decryption at code level / Application security using Cloud tools
-- Application evaluation
+- Application evaluation:
   - Scalability
   - Security
   - Pricing
