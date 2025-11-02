@@ -30,6 +30,6 @@ This paper dives deeper in Cloud Platforms utilities. Evaluation more closely th
   - Security
   - Pricing
  
-  *Observations, notes, and Challenges*
+*Observations, notes, and Challenges*
 
 During the process of evaluation and use of the platforms, I faced challenges and difficulties. However, this has brought me numerous valuable insights that can be found in the 'Observations...' files. There, I highlight the points where I grew as a user and professional, as well as techniques that helped me to improve my knowledge and way of using for Microsoft Azure, AWS and other Cloud Computing Platforms 
